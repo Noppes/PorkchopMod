@@ -1,0 +1,16 @@
+[
+{
+  "modid": "porkchop",
+  "name": "PorkChop mod",
+  "description": "Noppes and SCMowns porkchop mod",
+  "version": "1.7.2",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Noppes","SCMowns"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

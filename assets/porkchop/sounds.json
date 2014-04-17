@@ -1,0 +1,24 @@
+{
+  "hurt.hurt": {
+    "category": "neutral",
+    "sounds": ["hurt/hurt1","hurt/hurt2","hurt/hurt3","hurt/hurt4","hurt/hurt5","hurt/hurt6","hurt/hurt7","hurt/hurt8","hurt/hurt9","hurt/hurt10"]
+  },
+  "death.death": {
+    "category": "neutral",
+    "sounds": ["death/death1","death/death2","death/death3","death/death4","death/death5"]
+  },
+  "living.living": {
+    "category": "neutral",
+    "sounds": ["living/living1","living/living2","living/living3","living/living4","living/living5","living/living6","living/living7","living/living8","living/living9","living/living10",
+	"living/living11","living/living12","living/living13","living/living14","living/living15","living/living16","living/living17","living/living18","living/living19","living/living20",
+	"living/living21","living/living22","living/living23","living/living24","living/living25"]
+  },
+  "misc.fart": {
+    "category": "neutral",
+    "sounds": ["misc/fart"]
+  },
+  "misc.dance": {
+    "category": "neutral",
+    "sounds": [{"name": "misc/dance", "stream": true}]
+  }
+}
